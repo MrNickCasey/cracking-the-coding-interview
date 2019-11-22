@@ -1,4 +1,4 @@
-** CRACKING THE CODING INTERVIEW ** 
+**CRACKING THE CODING INTERVIEW** 
 
 In this repo, I'll be working through each of the questions from Gayle McDowell's Cracking the Coding Interview!
 
